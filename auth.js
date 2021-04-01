@@ -9,4 +9,4 @@ const login = function(user) {
 module.exports = {
     registers,
     login
-}sd
+}
