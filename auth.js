@@ -10,4 +10,8 @@ module.exports = {
     registers,
     login
 }
+<<<<<<< HEAD
+cxcxc
+=======
 manoj shimpi
+>>>>>>> master
